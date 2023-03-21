@@ -1,6 +1,5 @@
 ﻿using MauiSpeechToTextSample.Platforms;
 using MauiSpeechToTextSample.SemanticKernel;
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
 namespace MauiSpeechToTextSample;
